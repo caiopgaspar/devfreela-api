@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6J2rCSR+ad9IcQUNUbxin8kS3vmsFyEWTDOa1/rCxZ8V1KSSd+LirgXb+zF7og7VayZw+ipKjStFhRstFrKPHg==",
+  "dgSpecHash": "NWoFkF2nPmXv6XkvzB0OIW9RBpmp57gF8SRS55mbc0vC3ZIAVtY4F63vQMCm9A1bxMlRUDUKGESmVfuWubFiIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\DevFreela.Core1\\DevFreela.Core.csproj",
+  "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\DevFreela.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

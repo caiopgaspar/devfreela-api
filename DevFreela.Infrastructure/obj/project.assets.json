@@ -17,8 +17,8 @@
   "libraries": {
     "DevFreela.Core/1.0.0": {
       "type": "project",
-      "path": "../../DevFreela.Core1/DevFreela.Core.csproj",
-      "msbuildProject": "../../DevFreela.Core1/DevFreela.Core.csproj"
+      "path": "../DevFreela.Core/DevFreela.Core.csproj",
+      "msbuildProject": "../DevFreela.Core/DevFreela.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -60,8 +60,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\DevFreela.Core1\\DevFreela.Core.csproj": {
-              "projectPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\DevFreela.Core1\\DevFreela.Core.csproj"
+            "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\DevFreela.Core.csproj"
             }
           }
         }

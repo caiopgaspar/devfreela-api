@@ -1,0 +1,15 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll

@@ -1,0 +1,5 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\DevFreela.Core1\obj\Debug\net6.0\DevFreela.Core.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\DevFreela.Core1\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\DevFreela.Core1\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\DevFreela.Core1\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\DevFreela.Core1\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache

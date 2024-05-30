@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\devfreela\DevFreela.Core\DevFreela.Core.csproj" />
+    <ProjectReference Include="..\DevFreela.Application\DevFreela.Application.csproj" />
+    <ProjectReference Include="..\DevFreela.Infrastructure\DevFreela.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

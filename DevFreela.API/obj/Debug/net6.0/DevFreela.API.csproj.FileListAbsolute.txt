@@ -53,3 +53,8 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.A
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\ref\DevFreela.API.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Core.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs

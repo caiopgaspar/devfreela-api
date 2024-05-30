@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Application.Services.Interfaces
 {
-    internal interface IProjectService
+    public interface IProjectService
     {
         List<ProjectViewModel> GetAll(string query);
         ProjectDetailsViewModel GetById(int id);

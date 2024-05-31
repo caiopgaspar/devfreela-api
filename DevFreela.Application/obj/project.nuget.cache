@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gwC1bYyFx+Mv1asLHbeK21B4dUOGy3uovtctO6dhfbD6FSWOsmQmJkF17vT5MD1DOsvAe4MhKDB1fjDxKJsO/w==",
+  "dgSpecHash": "egUqNNdPRX48BuZ+QW4GRlpO5pfGgz3rzoCjoHIXSdH//FxvrFgJkcEE/bxVftjQePET9X54I2fAIJccuIEFlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\c-gas\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

@@ -8,8 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "DevFreela.Application/1.0.0": {
         "dependencies": {
+          "Dapper": "2.1.35",
           "DevFreela.Core": "1.0.0",
-          "DevFreela.Infrastructure": "1.0.0"
+          "DevFreela.Infrastructure": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
         },
         "runtime": {
           "DevFreela.Application.dll": {}
@@ -46,6 +48,45 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.10.3.0",
             "fileVersion": "1.1000.323.51804"
+          }
+        }
+      },
+      "Dapper/2.1.35": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.35.13827"
+          }
+        }
+      },
+      "MediatR/10.0.1": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/10.0.1": {
+        "dependencies": {
+          "MediatR": "10.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.0"
           }
         }
       },
@@ -603,6 +644,34 @@
       "sha512": "sha512-l1Xm2MWOF2Mzcwuarlw8kWQXLZk3UeB55aQXVyjj23aBfDwOZ3gu5GP2kJ6KlmZeZv2TCzw7x4L3V36iNr3gww==",
       "path": "azure.identity/1.10.3",
       "hashPath": "azure.identity.1.10.3.nupkg.sha512"
+    },
+    "Dapper/2.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "path": "dapper/2.1.35",
+      "hashPath": "dapper.2.1.35.nupkg.sha512"
+    },
+    "MediatR/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "path": "mediatr/10.0.1",
+      "hashPath": "mediatr.10.0.1.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "path": "mediatr.contracts/1.0.1",
+      "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mYdfMvpkahCAj4tRfBoeMlUBZa2WthaONdQ4y5TtIyxcZYb5e7AE7c1eITTZVWcQhguxvD8AdExdaiAW6RhrVA==",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/10.0.1",
+      "hashPath": "mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

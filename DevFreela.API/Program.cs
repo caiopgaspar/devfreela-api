@@ -1,8 +1,9 @@
 using DevFreela.API.Models;
-using DevFreela.Application.Services.Implementations;
 using DevFreela.Infrastructure.Persistence;
-using DevFreela.Application.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
+using DevFreela.Application.Commands.CreateProject;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,14 +14,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.Configure<OpeningTimeOption>(builder.Configuration.GetSection("OpeningTime"));
-
 var connectionString = builder.Configuration.GetConnectionString("DevFreelaCs");
 builder.Services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<IProjectService, ProjectService>();
+//added
+builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 
 var app = builder.Build();
+
+builder.Services.AddMediatR(typeof(Program));
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

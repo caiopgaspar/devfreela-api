@@ -754,6 +754,7 @@
       },
       "DevFreela.Infrastructure/1.0.0": {
         "dependencies": {
+          "Dapper": "2.1.35",
           "DevFreela.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.20"
         },

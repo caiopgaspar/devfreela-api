@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.application\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela\\devfreela.application\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -32,26 +52,78 @@
               "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Infrastructure\\Auth\\AuthService.cs",
               "RelativeToolTip": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T22:55:37.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\Entities\\User.cs",
+              "RelativeToolTip": "DevFreela.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:15:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:17:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:17:27.544Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.API\\Program.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Program.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.API\\Program.cs",
+              "RelativeToolTip": "DevFreela.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:18:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Services\\IAuthService.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Core\\Services\\IAuthService.cs",
               "RelativeToolTip": "DevFreela.Core\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T22:54:11.71Z",
               "EditorCaption": ""

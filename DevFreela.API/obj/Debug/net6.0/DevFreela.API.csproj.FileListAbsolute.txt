@@ -45,7 +45,6 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.A
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\scopedcss\bundle\DevFreela.API.styles.css
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.csproj.CopyComplete
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\refint\DevFreela.API.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.pdb
@@ -118,3 +117,13 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.A
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\MediatR.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets\msbuild.build.DevFreela.API.props
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.API\obj\Debug\net6.0\DevFreel.84249821.Up2Date

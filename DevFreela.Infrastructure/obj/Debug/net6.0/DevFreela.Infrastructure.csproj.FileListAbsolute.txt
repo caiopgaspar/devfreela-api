@@ -8,10 +8,11 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.I
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
-C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.runtimeconfig.json
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.genruntimeconfig.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreel.D77BFD02.Up2Date

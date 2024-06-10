@@ -7,12 +7,21 @@ using System.Reflection;
 using Microsoft.OpenApi.Models;
 using DevFreela.Infrastructure.Persistence.Repositories;
 using DevFreela.Core.Repositories;
+using FluentValidation.AspNetCore;
+using DevFreela.Application.Validators;
+using FluentValidation;
+using DevFreela.API.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => options.Filters.Add(typeof(ValidationFilter)));
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddFluentValidationClientsideAdapters();
+builder.Services.AddValidatorsFromAssemblyContaining<CreateProjectCommandValidator>();
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 
@@ -28,14 +37,16 @@ builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
 builder.Services.AddScoped<ISkillRepository, SkillRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-builder.Services.AddControllers();
+builder.Services.AddScoped<IRequestHandler<CreateProjectCommand, int>, CreateProjectCommandHandler>();
+
+//builder.Services.AddControllers();
 
 //added
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 
 var app = builder.Build();
 
-builder.Services.AddMediatR(typeof(Program));
+//builder.Services.AddMediatR(typeof(Program));
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -15,3 +15,15 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.C
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.sourcelink.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll

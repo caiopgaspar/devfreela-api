@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MK8hS088wmU=",
+  "dgSpecHash": "AznNFp8jx9o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela\\DevFreela.Application\\DevFreela.Application.csproj",
+  "projectFilePath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\c-gas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,11 +1,6 @@
 using DevFreela.API.Filters;
 using DevFreela.Application.Commands.CreateProject;
-using DevFreela.Application.Commands.CreateUser;
-using DevFreela.Application.Commands.LoginUser;
-using DevFreela.Application.Commands.UpdateProject;
-using DevFreela.Application.Queries.GetProjectById;
 using DevFreela.Application.Validators;
-using DevFreela.Application.ViewModels;
 using DevFreela.Core.Repositories;
 using DevFreela.Core.Services;
 using DevFreela.Infrastructure.Auth;
@@ -14,12 +9,12 @@ using DevFreela.Infrastructure.Persistence.Repositories;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using System.Reflection;
+using Microsoft.OpenApi.Models;
 using System.Text;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -80,15 +75,9 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 // Registering services for authentication
 builder.Services.AddScoped<IAuthService, AuthService>();
 
-// Registering MediatR handlers for various commands and queries
-builder.Services.AddScoped<IRequestHandler<CreateProjectCommand, int>, CreateProjectCommandHandler>();
-builder.Services.AddScoped<IRequestHandler<CreateUserCommand, int>, CreateUserCommandHandler>();
-builder.Services.AddScoped<IRequestHandler<UpdateProjectCommand, Unit>, UpdateProjectCommandHandler>();
-builder.Services.AddScoped<IRequestHandler<GetProjectByIdQuery, ProjectDetailsViewModel>, GetProjectByIdQueryHandler>();
-builder.Services.AddScoped<IRequestHandler<LoginUserCommand, LoginUserViewModel>, LoginUserCommandHandler>();
-
 // Adding MediatR for handling CQRS pattern
-builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+
+builder.Services.AddMediatR(config => config.RegisterServicesFromAssemblyContaining<CreateProjectCommand>());
 
 // Configuring JWT Authentication
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -116,6 +105,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();

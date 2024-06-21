@@ -301,6 +301,10 @@
               "target": "Package",
               "version": "[17.5.0, )"
             },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"

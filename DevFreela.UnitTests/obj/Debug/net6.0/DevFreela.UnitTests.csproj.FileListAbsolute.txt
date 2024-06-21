@@ -160,3 +160,5 @@ C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFree
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.UnitTests\obj\Debug\net6.0\DevFreela.UnitTests.pdb
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.UnitTests\obj\Debug\net6.0\DevFreela.UnitTests.genruntimeconfig.cache
 C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.UnitTests\obj\Debug\net6.0\ref\DevFreela.UnitTests.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\mentoria\AspNetCore\devfreela-api\DevFreela.UnitTests\bin\Debug\net6.0\NSubstitute.dll

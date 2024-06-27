@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.infrastructure\\payments\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\payments\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\dtos\\paymentinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\dtos\\paymentinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.application\\commands\\finishproject\\finishprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\finishproject\\finishprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.application\\commands\\finishproject\\finishprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\commands\\finishproject\\finishprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\enums\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\enums\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.application\\validators\\createprojectcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.application\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{236A92B9-5E9F-4BFD-8D3E-3D1E852BC973}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C21B908B-BE3C-4D48-9B5C-2410C6844C55}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2DF0BDE-4FB9-40C3-8D14-1EB0D4E60665}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64365A70-1392-4548-AB38-EC477F047697}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\c-gas\\onedrive\\documentos\\dev\\mentoria\\aspnetcore\\devfreela-api\\devfreela.core\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,20 +146,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Auth\\AuthService.cs",
               "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Auth\\AuthService.cs",
               "RelativeToolTip": "DevFreela.Infrastructure\\Auth\\AuthService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:55:37.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T22:55:37.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\User.cs",
@@ -143,12 +166,11 @@
               "RelativeToolTip": "DevFreela.Core\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:15:24.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:15:24.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
@@ -156,12 +178,11 @@
               "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:17:26.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:17:26.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "CreateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
@@ -169,12 +190,11 @@
               "RelativeToolTip": "DevFreela.Application\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAACBjwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:17:27.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:17:27.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\UsersController.cs",
@@ -182,12 +202,11 @@
               "RelativeToolTip": "DevFreela.API\\Controllers\\UsersController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAowDAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:44:26.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:44:26.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Repositories\\IUserRepository.cs",
@@ -195,57 +214,127 @@
               "RelativeToolTip": "DevFreela.Core\\Repositories\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:54:38.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:54:38.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "DevFreela.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:55:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:55:56.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "GetAllProjectsCommandHandlerTests.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.UnitTests\\Application\\Queries\\GetAllProjectsCommandHandlerTests.cs",
               "RelativeDocumentMoniker": "DevFreela.UnitTests\\Application\\Queries\\GetAllProjectsCommandHandlerTests.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.UnitTests\\Application\\Queries\\GetAllProjectsCommandHandlerTests.cs",
               "RelativeToolTip": "DevFreela.UnitTests\\Application\\Queries\\GetAllProjectsCommandHandlerTests.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAA4wEsAAAA+AAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwEsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:39:51.583Z",
+              "WhenOpened": "2024-06-20T23:39:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishProjectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommandHandler.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommandHandler.cs",
+              "RelativeToolTip": "DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommandHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:30:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinishProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommand.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommand.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommand.cs",
+              "RelativeToolTip": "DevFreela.Application\\Commands\\FinishProject\\FinishProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:30:57.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "DevFreela.Core\\Services\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:37:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Payments\\PaymentService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Payments\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Infrastructure\\Payments\\PaymentService.cs",
+              "RelativeToolTip": "DevFreela.Infrastructure\\Payments\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:38:54.462Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DevFreela.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\appsettings.json",
+              "RelativeToolTip": "DevFreela.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T00:28:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\DTOs\\PaymentInfoDTO.cs",
+              "RelativeDocumentMoniker": "DevFreela.Core\\DTOs\\PaymentInfoDTO.cs",
+              "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\DTOs\\PaymentInfoDTO.cs",
+              "RelativeToolTip": "DevFreela.Core\\DTOs\\PaymentInfoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:48:37.146Z"
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\Program.cs",
               "RelativeDocumentMoniker": "DevFreela.API\\Program.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\Program.cs",
               "RelativeToolTip": "DevFreela.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:18:41.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Services\\IAuthService.cs",
@@ -253,12 +342,11 @@
               "RelativeToolTip": "DevFreela.Core\\Services\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:54:11.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T22:54:11.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "LoginUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
@@ -266,12 +354,11 @@
               "RelativeToolTip": "DevFreela.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:45:53.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:45:53.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "LoginUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
@@ -279,12 +366,11 @@
               "RelativeToolTip": "DevFreela.Application\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:46:05.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:46:05.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "LoginUserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\ViewModels\\LoginUserViewModel.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\ViewModels\\LoginUserViewModel.cs",
@@ -292,12 +378,11 @@
               "RelativeToolTip": "DevFreela.Application\\ViewModels\\LoginUserViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:48:20.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:48:20.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "DevFreela.API.csproj",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\DevFreela.API.csproj",
               "RelativeDocumentMoniker": "DevFreela.API\\DevFreela.API.csproj",
@@ -305,25 +390,23 @@
               "RelativeToolTip": "DevFreela.API\\DevFreela.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-18T22:39:45.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T22:39:45.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\ProjectsController.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.API\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "DevFreela.API\\Controllers\\ProjectsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCAAAAA8AAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAIBJwIEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:06:59.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:06:59.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "GetAllProjectsQuery.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
@@ -331,12 +414,11 @@
               "RelativeToolTip": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:20:54.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:20:54.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "GetAllProjectsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
@@ -344,12 +426,11 @@
               "RelativeToolTip": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:22:25.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:22:25.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "GetUserQuery.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
@@ -357,12 +438,11 @@
               "RelativeToolTip": "DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:33:14.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:33:14.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "CreateProjectCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Validators\\CreateProjectCommandValidator.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Validators\\CreateProjectCommandValidator.cs",
@@ -370,12 +450,11 @@
               "RelativeToolTip": "DevFreela.Application\\Validators\\CreateProjectCommandValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:53:10.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:53:10.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "CreateUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Validators\\CreateUserCommandValidator.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Validators\\CreateUserCommandValidator.cs",
@@ -383,12 +462,11 @@
               "RelativeToolTip": "DevFreela.Application\\Validators\\CreateUserCommandValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:53:41.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:53:41.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ProjectTests.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.UnitTests\\Core\\Entities\\ProjectTests.cs",
               "RelativeDocumentMoniker": "DevFreela.UnitTests\\Core\\Entities\\ProjectTests.cs",
@@ -396,12 +474,11 @@
               "RelativeToolTip": "DevFreela.UnitTests\\Core\\Entities\\ProjectTests.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:59:35.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T22:59:35.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ProjectStatusEnum.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
@@ -409,25 +486,23 @@
               "RelativeToolTip": "DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:03:18.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T23:03:18.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Entities\\Project.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\Project.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Core\\Entities\\Project.cs",
               "RelativeToolTip": "DevFreela.Core\\Entities\\Project.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAA3wC0AAAApAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:11:57.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T23:11:57.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "CreateProjectCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
               "RelativeDocumentMoniker": "DevFreela.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
@@ -435,21 +510,19 @@
               "RelativeToolTip": "DevFreela.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T00:35:02.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T00:35:02.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "CreateProjectCommandHandlerTests.cs",
               "DocumentMoniker": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.UnitTests\\Application\\Commands\\CreateProjectCommandHandlerTests.cs",
               "RelativeDocumentMoniker": "DevFreela.UnitTests\\Application\\Commands\\CreateProjectCommandHandlerTests.cs",
               "ToolTip": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\AspNetCore\\devfreela-api\\DevFreela.UnitTests\\Application\\Commands\\CreateProjectCommandHandlerTests.cs",
               "RelativeToolTip": "DevFreela.UnitTests\\Application\\Commands\\CreateProjectCommandHandlerTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwCcAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAABQwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T00:35:20.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T00:35:20.447Z"
             }
           ]
         }

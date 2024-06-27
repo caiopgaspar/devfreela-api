@@ -67,6 +67,8 @@ var connectionString = builder.Configuration.GetConnectionString("DevFreelaCs");
 builder.Services.AddDbContext<DevFreelaDbContext>(options =>
     options.UseSqlServer(connectionString));
 
+builder.Services.AddHttpClient();
+
 // Registering repositories for dependency injection
 builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
 builder.Services.AddScoped<ISkillRepository, SkillRepository>();

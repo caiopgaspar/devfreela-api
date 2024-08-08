@@ -32,7 +32,7 @@ namespace DevFreela.Application.Consumers
                 durable: false,
                 exclusive: false,
                 autoDelete: false,
-                arguments: null);            
+                arguments: null);
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
